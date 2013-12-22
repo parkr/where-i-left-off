@@ -1,0 +1,31 @@
+---
+layout: post
+---
+
+- [Commit comment (date_formmated in Octopress breaking things)](https://github.com/imathis/octopress/commit/64ba60322571d0735a3220cdf8dba657703f64da#commitcomment-4904555)
+- [Multiple Encryption](http://blog.cryptographyengineering.com/2012/02/multiple-encryption.html)
+- [Cornell Policy Review](http://www.cornellpolicyreview.com/)
+- [After Effects Tutorial](http://www.youtube.com/watch?v=F3h2pbZkMT4)
+- [Docker & CoreOS](http://coreos.com/using-coreos/docker/)
+- [jQuery Adaptive Backgrounds Plugin](http://briangonzalez.github.io/jquery.adaptive-backgrounds.js/)
+- [4.10 Recursion / The C Programming Language](http://www.bobhobbs.com/files/kr_lovecraft.html)
+- [NSA Review - Policy Recommendations Report](http://www.nytimes.com/interactive/2013/12/19/us/politics/19nsa-review.html?ref=politics)
+- [How We've Scaled Dropbox](http://www.youtube.com/watch?v=PE4gwstWhmc)
+- [The Role of Agreement in Non-finite Predication](http://books.google.com/books?id=31kAqklrcUUC&pg=PA197&lpg=PA197&dq=Aled+a+Mair&source=bl&ots=ejKdHWrzZj&sig=WmW28jI-PeWEdxjXX-PJddosJfg&hl=en&sa=X&ei=6M-wUs7dG8r3oATe6YHAAQ&ved=0CE0Q6AEwBw#v=onepage&q=Aled%20a%20Mair&f=false)
+- [Stallman: "Free Software: Freedom and Cooperation"](http://www.gnu.org/events/rms-nyu-2001-transcript.txt)
+- Sylvia Townsend Warner
+  - [The Neglected Writer (Guardian)](http://www.theguardian.com/books/2012/mar/02/sylvia-townsend-warner)
+  - [Townsend Warner](http://www.townsendwarner.com/)
+  - [New Yorker Review & Reading](http://downloads.newyorker.com/mp3/fiction/120316_fiction_toibin.mp3)
+- [List of important publications in (Modern) Philosophy](https://en.wikipedia.org/wiki/List_of_important_publications_in_philosophy#Modern_philosophy)
+- [Cryptome](http://cryptome.org/)
+- [I believe in the Blerch - Athletic Socks](http://shop.theoatmeal.com/products/i-believe-in-the-blerch-athletic-socks)
+- [On Power: Oil Power in the Middle East](http://www.foreignaffairs.com/articles/28289/john-c-campbell/on-power-oil-power-in-the-middle-east)
+- [Your Own Mini Heroku for $5 per Month](http://blog.rajivm.com/your-own-mini-heroku-for-5-dollars-per-month.html)
+- [NSA: An Inside View](http://lorensr.me/nsa-an-inside-view.html)
+- [Amazon MP3: R.Kelly "Write Me Back"](http://www.amazon.com/gp/product/B008C3GZ6U/ref=s9_dcbhrz_bw_g340_i1_sh?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=center-2&pf_rd_r=0JQ9QZH7YEJRZ1S2MMBZ&pf_rd_t=101&pf_rd_p=1485901362&pf_rd_i=625105011)
+- [Amazon MP3: Trey Songz "I Gotta Make It"](http://www.amazon.com/gp/product/B0012EGE3U/ref=s9_dcbhrz_bw_d99_g340_i3_pm?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=center-2&pf_rd_r=0JQ9QZH7YEJRZ1S2MMBZ&pf_rd_t=101&pf_rd_p=1485901362&pf_rd_i=625105011)
+- [Amazon MP3: Laura Mvula: Sing to the Moon](http://www.amazon.com/gp/product/B00CA9Y6Q8/ref=s9_hps_bw_g340_ir02?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=center-10&pf_rd_r=0JQ9QZH7YEJRZ1S2MMBZ&pf_rd_t=101&pf_rd_p=1597145582&pf_rd_i=625105011)
+- [Amazon MP3: Alice Smith: She](http://www.amazon.com/gp/product/B00BRLGPQY/ref=s9_hps_bw_g340_ir03?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=center-10&pf_rd_r=0JQ9QZH7YEJRZ1S2MMBZ&pf_rd_t=101&pf_rd_p=1597145582&pf_rd_i=625105011)
+- [Goals, Ideologies and Foreign Policy](http://www.foreignaffairs.com/articles/25075/bayless-manning/goals-ideology-and-foreign-policy)
+- [How Can C Programs Be So Reliable](http://tratt.net/laurie/blog/entries/how_can_c_programs_be_so_reliable)
