@@ -1,6 +1,6 @@
 ---
 title: SO MANY TABZ
-layout: default
+layout: post
 ---
 
 - [Computers for Cynics 2 - It All Went Wrong at Xerox PARC](https://www.youtube.com/watch?v=c6SUOeAqOjU)
