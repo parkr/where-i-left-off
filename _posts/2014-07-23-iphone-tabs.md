@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "From My iPhone (i.e. on-the-go learning)"
 ---
 
 - [The age of entitlement: how wealth breeds narcissism](http://www.theguardian.com/commentisfree/2014/jul/08/the-age-of-entitlement-how-wealth-breeds-narcissism)
