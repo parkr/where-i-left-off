@@ -12,7 +12,7 @@ layout: post
 - [Sun Ra’s Full Lecture & Reading List From His 1971 UC Berkeley Course, “The Black Man in the Cosmos”](http://www.openculture.com/2014/07/full-lecture-and-reading-list-from-sun-ras-1971-uc-berkeley-course.html)
 - [Is Encrypting Phones OK?](https://www.tbray.org/ongoing/When/201x/2014/10/06/Encrypted-Phones)
 - [Edward Snowden at New Yorker Festival (Interview)](http://techcrunch.com/2014/10/11/edward-snowden-new-yorker-festival/)
-- [Christopher Hitchens - Discussing 'Love, Poverty and War' on 'Start the Week' [2005]](https://www.youtube.com/watch?v=X7b4jzuZ0nM&index=4&list=TLJV8Le8i-gF6LoU0mezCy10XBHnfwHWiN)
+- [Christopher Hitchens - Discussing 'Love, Poverty and War' on 'Start the Week' (2005)](https://www.youtube.com/watch?v=X7b4jzuZ0nM&index=4&list=TLJV8Le8i-gF6LoU0mezCy10XBHnfwHWiN)
 - [Part: Stabat Mater / Fratres / Summa](https://play.spotify.com/album/39ClqCwqBeqR9hQUeUO9cd)
 - [Government Evangelist at GitHub on US open technologies](https://opensource.com/government/14/10/interview-ben-balter-github)
 - [Leon Gersing - Keep Software Weird - BaRuCo](https://www.youtube.com/watch?v=5HRgfxDtaPI)
