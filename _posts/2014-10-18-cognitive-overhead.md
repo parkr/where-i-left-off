@@ -12,3 +12,8 @@ layout: post
 - ["Toward a More Agile Government" - Ben Balter in the Public Contract Law Journal](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1966241)
 - [Schwanengesang ("Swan Song") by Schubert with English Subtitles arr.Liszt Valentina Lisitsa](https://www.youtube.com/watch?v=OY9pZ4GNeDo)
 - [Mathematics and sex | Clio Cresswell TEDxSydney](https://www.youtube.com/watch?v=H2vN2QXZGnc)
+
+And later:
+
+- [Wilco-Kamera](https://www.youtube.com/watch?v=LgZ6KwwiefY)
+- [NYTimes Video Exclusive Video: Obama on the World](http://www.nytimes.com/video/opinion/100000003048414/obama-on-the-world.html?playlistId=100000002797598)
