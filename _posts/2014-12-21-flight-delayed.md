@@ -1,0 +1,14 @@
+---
+---
+
+- [Cuomo bans fracking in New York citing health risks](http://www.nytimes.com/2014/12/18/nyregion/cuomo-to-ban-fracking-in-new-york-state-citing-health-risks.html?smid=nytcore-iphone-share&smprod=nytcore-iphone&_r=0)
+- [RubyConf 2014 - Questions for Matz](https://www.youtube.com/watch?v=_zoG2i7pMxg)
+- [Weird Ruby Part Two: Exceptional Ensurance](http://blog.newrelic.com/2014/12/10/weird-ruby-2-rescue-interrupt-ensure/)
+- [A RUBY REFACTOR: EXPLORING DEPENDENCY INJECTION OPTIONS]http://brandonhilkert.com/blog/a-ruby-refactor-exploring-dependency-injection-options/)
+- [RubyConf 2014 - Ruby after Rails](https://www.youtube.com/watch?v=EgjJYkuV0Sc)
+- [The terrorist bureaucracy: Inside the files of the Islamic State in Iraq](http://www.bostonglobe.com/ideas/2014/12/14/the-terrorist-bureaucracy-inside-files-islamic-state-iraq/QtRMOARRYows0D18faA2FP/story.html?event=event25)
+- [The Unidentified Queen of Torture](http://www.newyorker.com/news/news-desk/unidentified-queen-torture)
+- [Soundbot on Amazon](http://www.amazon.com/SoundBot%C2%AE-SB571-Hands-Free-Speakerphone-Rechargeable/dp/B00MITLPX2/)
+- [WD My Passport](http://www.amazon.com/dp/B00E055H5O/)
+- [SanDisk 32GB Extreme SD](http://www.amazon.com/SanDisk-Extreme-32GB-UHS-I-Memory/dp/B00MBFPT44/)
+- [Hints for Writing Unix Tools](http://monkey.org/~marius/unix-tools-hints.html)
