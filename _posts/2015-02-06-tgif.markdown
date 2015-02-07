@@ -1,0 +1,11 @@
+---
+layout: post
+title: "TGIF"
+date: "Fri Feb 06 19:54:15 -0800 2015"
+---
+
+- [On writing maintainable front-end systems](http://blog.andyet.com/2015/01/21/on-maintainable-front-end-systems)
+- [The God Login](http://blog.codinghorror.com/the-god-login/)
+- [A Look Inside Design at Airbnb](http://blog.invisionapp.com/designspace-airbnb-chad-thornton/)
+- [FRONTEND.md - Generate docs from your JS](http://jameschambers.co/writing/frontend-md/)
+- [The Quotative Like](http://xkcd.com/1483/)
