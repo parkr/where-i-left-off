@@ -1,4 +1,5 @@
 ---
+layout: post
 ---
 
 - [The Moral Bucket List](http://www.nytimes.com/2015/04/12/opinion/sunday/david-brooks-the-moral-bucket-list.html?smid=fb-share&_r=2)
