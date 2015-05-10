@@ -1,0 +1,24 @@
+#!/usr/bin/env ruby
+
+require 'yaml'
+require 'jekyll/utils'
+
+def read(prompt)
+  print "#{prompt} >> "
+  STDIN.gets.strip
+end
+
+title = read("Title?")
+
+slug     = Jekyll::Utils.slugify(title)
+filename = File.join("_posts", "#{Time.now.strftime("%Y-%m-%d")}-#{slug}.md")
+
+File.open(filename, "w") do |f|
+  f.puts(YAML.dump({
+    "layout" => "post",
+    "title" => title,
+  }))
+  f.puts "---"
+end
+
+puts "Written out to '#{filename}'."
