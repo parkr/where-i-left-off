@@ -1,0 +1,17 @@
+---
+layout: post
+title: "on mah wey"
+date: "2015-05-10 00:39:18 -0700"
+---
+
+- [Behavior trees for AI: How they work](http://www.gamasutra.com/blogs/ChrisSimpson/20140717/221339/Behavior_trees_for_AI_How_they_work.php)
+- [Graphical Linear Algebra](http://graphicallinearalgebra.net/)
+- [To Fall in Love With Anyone, Do This](http://www.nytimes.com/2015/01/11/fashion/modern-love-to-fall-in-love-with-anyone-do-this.html?_r=0)
+- [Go's net/context and http.Handler](https://joeshaw.org/net-context-and-http-handler/)
+- [In the Tenderloin: Scenes from San Francisco’s most infamous neighborhood](https://stories.californiasunday.com/2015-05-03/in-the-tenderloin/)
+
+- [Thailand Packing List](http://goasia.about.com/od/packinglists/a/Thailand-Packing-List.htm)
+- [Packing List for Asia Travel](http://goasia.about.com/od/packinglists/a/What-to-Bring-to-Asia.htm)
+
+- [Anthem](https://www.anthem.com/health-insurance/home/overview)
+- [OneMedical](http://www.onemedical.com/sf/physicians/)
