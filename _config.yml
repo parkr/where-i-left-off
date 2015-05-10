@@ -1,5 +1,5 @@
 name: "Links I want to remember but don't want open in my browser"
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 description: "Look up."
 url: "http://stash.byparker.com"
