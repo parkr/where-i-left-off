@@ -13,3 +13,15 @@ layout: post
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/?utm_source=hackernewsletter&utm_medium=email&utm_term=learn)
 - [Internet Trends of 2015](http://kpcbweb2.s3.amazonaws.com/files/90/Internet_Trends_2015.pdf?1432738078)
 - [A 92-Year-Old Ran Her 16th Marathon And Broke A Record](http://www.npr.org/sections/thetwo-way/2015/06/01/411260984/a-92-year-old-ran-her-16th-marathon-and-broke-a-record)
+
+From mah fone ya
+
+- [Confront reality](http://www.aaronsw.com/weblog/anders)
+- [Seeing Networks in New York City](http://seeingnetworks.in/nyc/)
+- [Bundled, Buried, and Behind Closed Doors](https://vimeo.com/30642376)
+- [Prof. Sussman's Reading List](http://aurellem.org/thoughts/html/sussman-reading-list.html)
+- [The Collection and the Cloud](http://thenewinquiry.com/essays/the-collection-and-the-cloud/)
+- [John Steven Morgan](https://johnstevenmorgan.bandcamp.com)
+- [Korean Artist Beautifully Illustrates What Real Love Looks Like](http://www.idealistrevolution.org/korean-artist-beautifully-illustrates-what-real-love-looks-like/)
+- [Integrate Rubocop into Your Workflow](https://intercityup.com/blog/integrate-rubocop-in-your-workflow.html)
+- [Deploying Go Servers with Docker](https://blog.golang.org/docker)
