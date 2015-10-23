@@ -1,0 +1,14 @@
+---
+layout: post
+title: "cannot"
+date: "2015-10-22 20:28:00 -0700"
+---
+
+- [O Magnum Mysterium](https://www.youtube.com/watch?v=nn5ken3RJBo)
+- [WB Yeats, Ireland and the Modern World - Professor Ronan McDonald](https://www.youtube.com/watch?v=s1QCigF6JOg)
+- [A Protocol for Packet Network Intercommunication](http://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf)
+- [Commonwealth and African Studies – Online Catalogues of Archives and Manuscripts – U. of Oxford](http://www.bodley.ox.ac.uk/dept/scwmss/wmss/online/online.htm#blcas)
+- [Digital Bodleian](http://digital.bodleian.ox.ac.uk/about.html#discover)
+- [Anthony Hamilton (2003) "Comin' from Where I'm From"](https://www.youtube.com/watch?v=YdFhi3a1QDA)
+- [Barber - Agnus Dei (with sheet music)](https://www.youtube.com/watch?v=FOwRW8ee4S8)
+- [3 TRIVIAL CONCURRENCY EXERCISES FOR THE CONFUSED NEWBIE GOPHER](http://whipperstacker.com/2015/10/05/3-trivial-concurrency-exercises-for-the-confused-newbie-gopher/)
