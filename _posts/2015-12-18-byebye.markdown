@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Byebye"
+date: "2015-12-18 16:08:52 -0800"
+---
+
+- [FireEye Exploitation: Project Zero’s Vulnerability of the Beast](http://googleprojectzero.blogspot.com/2015/12/fireeye-exploitation-project-zeros.html)
+- [THREAT SPOTLIGHT: CRYPTOWALL 4 - THE EVOLUTION CONTINUES](http://blog.talosintel.com/2015/12/cryptowall-4.html)
+- [Knuth-Morris-Pratt from Algorithms 2](https://class.coursera.org/algs4partII-006/lecture/40)
+- [HAPPINESS CAN BE FOUND SHIRT - DFTBA](http://store.dftba.com/products/happiness-can-be-found-shirt)
+- [Advent of Code](http://adventofcode.com/)
+- [Philosophy of science books every computer scientist should read](http://tomasp.net/blog/2015/reading-list/)
+- [Thing Explainer: Complicated Stuff in Simple Words](http://www.amazon.com/Thing-Explainer-Complicated-Stuff-Simple/dp/0544668251/)
+- [Choosing an HTTP Status](http://racksburg.com/choosing-an-http-status-code/) - flow charts!
+- [The Slow Search - Charley Zheng on Exposure](https://charleyzheng.exposure.co/the-slow-search)
+
+:heart:
