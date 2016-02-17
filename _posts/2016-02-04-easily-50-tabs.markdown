@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Easily 50 Tabs"
+date: "2016-02-04 14:08:58 -0800"
+---
+
+- [Producing OSS, Chapter 1](http://producingoss.com/en/introduction.html)
