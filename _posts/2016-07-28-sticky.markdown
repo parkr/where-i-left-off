@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Sticky"
+date: "2016-07-28 17:06:33 -0700"
+---
+
+- [MIT OPEN COURSEWARE Lecture Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/)
+- [parkr/gossip failing test](https://travis-ci.org/parkr/gossip)
+- [Vitamin-R: Your Personal Productivity Sidekick](http://www.publicspace.net/Vitamin-R/index.html)
+- [Monitoring and Tuning the Linux Networking Stack: Receiving Data](http://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/)
+- [Introducing the Apple Filesystem](https://developer.apple.com/videos/play/wwdc2016/701/)
+- [The History of the URL: Domain, Protocol, and Port](https://eager.io/blog/the-history-of-the-url-domain-and-protocol/)
+- [Linode - Welcome from Go Weekly!](http://welcome.linode.com/go-weekly/)
+- [Sandi Metz & Katrina Owen - 99 Bottles of OOP](http://www.sandimetz.com/99bottles/)
+- [Top MOOCS - Class Central](https://www.class-central.com/report/top-moocs/)
+- [`sync/errgroup` for golang](https://godoc.org/golang.org/x/sync/errgroup)
+- [Reflections on Trusting Trust](http://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
