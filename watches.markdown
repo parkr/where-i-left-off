@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: page
 title: "Watches"
-date: "2018-09-03 18:32:08 -0400"
 ---
+
+These are some of my favorites.
 
 - [Breguet Type XX - XXI - XXII 3800](https://www.breguet.com/en/timepieces/type-xx-xxi-xxii/3800)
 - [Breguet Classique 7147](https://www.breguet.com/en/timepieces/classique/7147)
