@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Watches"
+summary: "Some of my favorite watches"
 ---
 
 These are some of my favorites.
