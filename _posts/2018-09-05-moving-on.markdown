@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Moving On"
+date: "2018-09-05 11:18:05 -0400"
+---
+
+- [segmentio/aws-okta](https://github.com/segmentio/aws-okta) - aws-vault like tool for Okta authentication
+- [tj/git-extras `bin/git-count`](https://github.com/tj/git-extras/blob/master/bin/git-count)
+- [cryptoparty stickers GPG TOR OTR FTW](https://shiromarieke.github.io/cryptoparty-stickers-etc)
+- [Docker or GTFO - My Little Cluster](https://carolynvanslyck.com/blog/2017/10/docker-or-gtfo/)
+- [Awesome Maintainers - nayafia](https://github.com/nayafia/awesome-maintainers/blob/master/README.md)
+- [macos activity indicator](https://github.com/milgra/macos_activity_indicator)
+- [Mount Koya, Ancient Baths, and Exacting Compilers - Brandur](https://brandur.org/passages/003-koya)
+- [A Native Art Gallery for your Mac](http://archagon.net/blog/2018/05/02/a-native-art-gallery-for-your-mac/)
+- [Textile - Reorganize your Facebook Photo Downloads](https://fb.textile.photos/)
