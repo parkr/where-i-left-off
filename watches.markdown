@@ -111,3 +111,10 @@ hands, retaining their sharpness. At 12 o’clock, the Tavannes logo is of an
 early style, with no other text visible on the dial. The steel case and
 flat, polished bezel are sharp and thick, while the high-domed glass
 further enhances its typical 40s style.
+
+## [The Habring² Erwin-LAB01 For Massena LAB](https://www.hodinkee.com/articles/massena-lab-habring2-erwin-lab01-introducing)
+
+![Habring Erwin-LAB01 for Massena LAB](/images/watches/habring-erwin-lab01-for-massena-lab.png)
+
+This watch has a very classic look. I like that it's fairly affordable.
+[Buy it here](https://www.massenalab.com/product/erwin-lab01/).
