@@ -118,3 +118,12 @@ further enhances its typical 40s style.
 
 This watch has a very classic look. I like that it's fairly affordable.
 [Buy it here](https://www.massenalab.com/product/erwin-lab01/).
+
+## [Tudor Glamour Double Date](https://www.hodinkee.com/articles/tudor-glamour-double-date-introducing)
+
+![Tudor Glamor Double Date](/images/watches/tudor-glamor-double-date.png)
+
+This is a very classic watch. Honestly, the steel look isn't my favorite.
+I really decided I loved this watch due to this silver/gold look:
+
+![Tudor Glamor Double Date yellow gold](/images/watches/tudor-glamor-double-date-yellow-gold.png)
