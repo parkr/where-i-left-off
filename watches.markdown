@@ -30,6 +30,31 @@ direct-impulse escapement, which improves the efficiency of the movement
 through its ability to use less power and maintain amplitude, achieved
 through the escape-lever being locked down between two escape wheels.
 
+## [F. P. JOURNE CHRONOMÈTRE SOUVERAIN - CS.RG.40 - ROSE GOLD](https://www.acollectedman.com/collections/all/products/fp-journe-chronometre-souverain-csrg40-watch)
+
+![F.P. Journe Chronometre Souverain](/images/watches/F_P_Journe_Chronometre_Souverain_Rose_gold_silver_dial_watch_at_A_Collected_Man_London1.jpg)
+
+Housed in a classical, 40mm rose-gold case, it is made distinctive by F.P.
+Journe’s signature ‘flat crown’ with a rope like pattern. The silver dial
+is engine turned in the centre with a hobnail, Clous de Paris pattern,
+while the outer track holds the embossed decorative arabic numerals. The
+signature F.P. Journe style hands are made of blued steel and forms a
+contrast between the silver dial to improve readibility. Between 7 and 8
+o’clock is a subsidiary seconds and at 3 o’clock is a power reserve
+indicator which states a power reserve of 56 hours. Overall, the dial
+layout is cleanly designed and excellently legible.
+
+## [Rolex Explorer Ref. 214270](https://www.hodinkee.com/articles/rolex-explorer-214270-review)
+
+![Rolex Explorer Ref. 214270, black dial](/images/watches/Rolex_Explorer_Ref_214270_.jpg)
+
+This is the most beautiful distillation of a sports watch into its essence that it feels at once casual
+and fun. It pares down the over-the-top features of an average sports watch and gives only the most
+essential function its due: reading time quickly and and beautifully. I admit the black might reduce
+the contrast enough that I find it difficult to read, but it's gorgeous nevertheless. Simplicity is back in style.
+
+[A video is available on Vimeo](https://vimeo.com/331870470) as well.
+
 ## [Breguet Type XX - XXI - XXII 3800](https://www.breguet.com/en/timepieces/type-xx-xxi-xxii/3800)
 
 ![Breguet Type XX/XXI/XXII 3800, black dial](/images/watches/Breguet_XX_XXI_XXII_3800st_92_9w6_2.jpg)
@@ -83,20 +108,6 @@ register at six o'clock has concentric circles and black, painted markers.
 The overall design is very similar to the extremely refined version of Mr
 Dufour's very own, personal Simplicity. This Philippe Dufour Simplicity
 comes on a black alligator strap with a 18-carat white gold tang buckle.
-
-## [F. P. JOURNE CHRONOMÈTRE SOUVERAIN - CS.RG.40 - ROSE GOLD](https://www.acollectedman.com/collections/all/products/fp-journe-chronometre-souverain-csrg40-watch)
-
-![F.P. Journe Chronometre Souverain](/images/watches/F_P_Journe_Chronometre_Souverain_Rose_gold_silver_dial_watch_at_A_Collected_Man_London1.jpg)
-
-Housed in a classical, 40mm rose-gold case, it is made distinctive by F.P.
-Journe’s signature ‘flat crown’ with a rope like pattern. The silver dial
-is engine turned in the centre with a hobnail, Clous de Paris pattern,
-while the outer track holds the embossed decorative arabic numerals. The
-signature F.P. Journe style hands are made of blued steel and forms a
-contrast between the silver dial to improve readibility. Between 7 and 8
-o’clock is a subsidiary seconds and at 3 o’clock is a power reserve
-indicator which states a power reserve of 56 hours. Overall, the dial
-layout is cleanly designed and excellently legible.
 
 ## [TAVANNES CHRONOGRAPH - STEEL - CAL. VALJOUX 22](https://www.acollectedman.com/collections/all/products/tavannes-chronograph-steel)
 
