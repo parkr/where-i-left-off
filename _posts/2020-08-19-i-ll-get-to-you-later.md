@@ -7,11 +7,15 @@ layout: post
 - [Tools for Better Thinking - Untools](https://untools.co/)
 - [Monte Carlo Simulation – MIT OCW](https://www.youtube.com/watch?v=OgO1gpXSUzU)
 
+---
+
 - [Anji Mountain Bamboo Desk Mats](https://www.amazon.com/stores/page/718A0A3C-D725-4082-8263-02803859CB0A?productGridPageIndex=1)
 - [How to Create Videos using Adobe Premier Rush – Udemy](https://www.udemy.com/course/adobe-premiere-rush/)
 - [Episode 6: Yves Junqueira and John Ewart, co-founders of YourBase – Sourcegraph Podcast](https://about.sourcegraph.com/podcast/yves-and-john)
 - [Humans by Brandon Stanton](https://static.macmillan.com/static/smp/humans/)
 - [Wheel of Misfortune](https://dastergon.gr/wheel-of-misfortune/)
+
+---
 
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/)
 - [The Tail at Scale Revisited - bill duncan&#039;s blog](https://billduncan.org/the-tail-at-scale-revisited/)
