@@ -1,3 +1,11 @@
 name: "Links I want to remember but don't want open in my browser"
 description: "Look up."
 url: "https://stash.byparker.com"
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"

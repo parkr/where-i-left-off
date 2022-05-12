@@ -3,16 +3,16 @@
 
 ### Learning
 
-- &starf; [Mechanical Watch](https://ciechanow.ski/mechanical-watch/)
+- ★ [Mechanical Watch](https://ciechanow.ski/mechanical-watch/)
 - [The Listening Book - by W.A. Mathieu – Derek Sivers](https://sive.rs/book/ListeningBook)
 - [John's Favorite Books You Haven't Read](https://bookshop.org/lists/john-s-favorite-books-you-probably-haven-t-read)
 - [John le Carré Books in Order (The Little Drummer Girl, George Smiley,...) - How To Read Me](https://www.howtoread.me/john-le-carre-books-in-order/)
-- &starf; [1 Second Everyday - Your Video Diary](https://1secondeveryday.tilda.ws/)
+- ★ [1 Second Everyday - Your Video Diary](https://1secondeveryday.tilda.ws/)
 - [How to Raise Kids – Without Overparenting – TED](https://m.youtube.com/watch?v=CyElHdaqkjo)
 - [Debugging and Profiling - The missing semester of your CS education (MIT)](https://missing.csail.mit.edu/2020/debugging-profiling/)
 - [Performance Engineering of Software Systems – Electrical Engineering and Computer Science – MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/)
 - [Beginner&#39;s Series to: Rust - YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x)
-- &starf; [40 questions to ask yourself every year &ndash; Stephan Ango](http://stephanango.com/40-questions)
+- ★ [40 questions to ask yourself every year &ndash; Stephan Ango](http://stephanango.com/40-questions)
 - [Forget New Year&#039;s Resolutions and Conduct a &#039;Past Year Review&#039; Instead &#8211; The Blog of Author Tim Ferriss](https://tim.blog/2018/12/28/past-year-review/)
 - [CBS: Bryan Stevenson on The Legacy Museum and the National Memorial for Peace and Justice](https://www.cbsnews.com/news/bryan-stevenson-the-legacy-museum-the-national-memorial-for-peace-and-justice/)
 - [KYIV - THE WAR DIARY OF YEVGENIA BELORUSETS](https://www.isolarii.com/kyiv)
@@ -34,8 +34,8 @@
 
 ### Tools
 
-- &starf; [Hoppscotch - Open source API development ecosystem](https://hoppscotch.io/)
-- &starf; [sophshep/one-on-one: A template for a weekly 1:1 repo](https://github.com/sophshep/one-on-one)
+- ★ [Hoppscotch - Open source API development ecosystem](https://hoppscotch.io/)
+- ★ [sophshep/one-on-one: A template for a weekly 1:1 repo](https://github.com/sophshep/one-on-one)
 - [imsnif/bandwhich: Terminal bandwidth utilization tool](https://github.com/imsnif/bandwhich)
 - [pete911/certinfo: print x509 certificate info](https://github.com/pete911/certinfo)
 - [marc1307/tailscale-cloudflare-dnssync: Syncs Tailscale host IPs to a cloudflare hosted dns zone](https://github.com/marc1307/tailscale-cloudflare-dnssync)
@@ -46,7 +46,7 @@
 - [NewPipe - a free YouTube client](https://newpipe.net/#history) (Android)
 - [Panic - Nova](https://nova.app/)
 - [4K Desktop wallpaper generator](https://tanck.nl/wallpaper/?share=MzAzLjM4NTc2NDgzNDEwMSwtMTQuNzUxMjkyNjYxNjE4Nzc3LDE0Ny41NjA5NzMyNjIwMzUsOSw0OS42NDI3NjQxNjYzMDIxNiwyLjE1MzczNjg2MzA5NTE5NDcsMTQ3Ny45NTcwOTAzNjg4MTY0LDQ4My4yMDIxNTAzMDc4ODMzNiwzNS4xNTc3MDk1MzIwMzU1MSwyMDAsNjAyLjA0MTQ5MjQyNTcyODY=)
-- &starf; [Play: A Fantastic Utility for Saving and Organizing YouTube Videos for Later - MacStories](https://www.macstories.net/reviews/play-a-fantastic-utility-for-saving-and-organizing-youtube-videos-for-later/)
+- ★ [Play: A Fantastic Utility for Saving and Organizing YouTube Videos for Later - MacStories](https://www.macstories.net/reviews/play-a-fantastic-utility-for-saving-and-organizing-youtube-videos-for-later/)
 - [Maestral](https://www.maestral.app/) – Replace Dropbox on your Mac
 - [App Tamer 2.7 is now officially available! &laquo;  St. Clair Software Blog](https://www.stclairsoft.com/blog/2022/03/02/app-tamer-2-7-is-now-officially-available/)
 
@@ -59,9 +59,9 @@
 - [Episode #5: Joel Meyerowitz Interview for Aperture - Masters Of Photography](https://mastersof.photography/freestream/view/episode-5-joel-meyerowitz/)
 - [Nom de Bébé](https://nomdebebe.app/)
 - [Find Your Place - POST](https://openspacetrust.org/find-your-place/)
-- &starf; [Spies, Lies, and Algorithms – Princeton University Press](https://press.princeton.edu/books/hardcover/9780691147130/spies-lies-and-algorithms)
+- ★ [Spies, Lies, and Algorithms – Princeton University Press](https://press.princeton.edu/books/hardcover/9780691147130/spies-lies-and-algorithms)
 - [Booqsi – For the love of books](https://www.booqsi.com/) - A modern social platform for the book community
-- &starf; [Atoms with Consciousness: Yo-Yo Ma Performs Richard Feynman&#8217;s Ode to the Wonder of Life, Animated &#8211; The Marginalian](https://www.themarginalian.org/2022/04/22/richard-feynman-yo-yo-ma/)
+- ★ [Atoms with Consciousness: Yo-Yo Ma Performs Richard Feynman&#8217;s Ode to the Wonder of Life, Animated &#8211; The Marginalian](https://www.themarginalian.org/2022/04/22/richard-feynman-yo-yo-ma/)
 - [Making Saturday Night Live: Film Unit](https://www.youtube.com/watch?v=FXJKfK_aMDI)
 - [What Really Happened During the Texas Power Grid Outage? – Practical Engineering – YouTube](https://www.youtube.com/watch?v=08mwXICY4JM)
 
