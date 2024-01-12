@@ -1,0 +1,12 @@
+---
+---
+
+- [prompt engineering - openai](https://platform.openai.com/docs/guides/prompt-engineering/six-strategies-for-getting-better-results)
+- [paperless-ngx](https://docs.paperless-ngx.com/)
+- [Paperless-ngx: Free Open Source Document Management Platform](https://www.youtube.com/watch?v=gK8_-co5NUs) 
+- [Wolfgang Tillman, seen at SFMOMA](https://tillmans.co.uk/) 
+- [About Taylor Fladgate](https://www.taylor.pt/us/about/who-are-we)
+- [arsham/figurine - pretty terminal writing ascii art](https://github.com/arsham/figurine)
+    - [a fancy login banner for your servers](https://www.youtube.com/watch?v=GPQ6k2GR17I)
+- that’s all folks
+- 
